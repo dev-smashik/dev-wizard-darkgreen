@@ -1,0 +1,30 @@
+{
+  "name": "dev-wizard-darkgreen",
+  "displayName": "Dev-Wizard-DarkGreen",
+  "description": "Developers Vscode theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.89.0"
+  },
+
+  "keywords": [
+    "theme",
+    "dark theme",
+    "dev theme",
+    "hacker theme",
+    "github theme",
+    "vscode theme"
+  ],
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Dev Wizard DarkGreen",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Dev Wizard DarkGreen-color-theme.json"
+      }
+    ]
+  }
+}
