@@ -9,7 +9,12 @@ Dev Wizard Theme is a vibrant and powerful Visual Studio Code theme designed to 
 
 * Enhanced Syntax Highlighting: Enjoy intuitive syntax highlighting that makes your code stand out and easy to read.
 
+<h2>Preview</h2>
+    <img src="1.png" alt="Preview Image 1" class="theme-image">
+    <img src="2.png" alt="Preview Image 2" class="theme-image">
+    <img src="3.png" alt="Preview Image 3" class="theme-image">
 
+<br>
 
 # Installation
 * Launch Visual Studio Code.
