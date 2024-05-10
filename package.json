@@ -3,10 +3,15 @@
   "displayName": "Dev-Wizard-DarkGreen",
   "description": "Developers Vscode theme",
   "version": "0.0.1",
+  "publisher": "devwizdark",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dev-smashik/dev-wizard-darkgreen"
+  },
   "engines": {
     "vscode": "^1.89.0"
   },
-
+  
   "keywords": [
     "theme",
     "dark theme",
