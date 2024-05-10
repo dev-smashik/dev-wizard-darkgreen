@@ -1,6 +1,6 @@
 {
   "name": "dev-wizard-darkgreen",
-  "displayName": "Dev-Wizard-DarkGreen",
+  "displayName": "Dev Wizard",
   "description": "Developers Vscode theme",
   "version": "0.0.1",
   "publisher": "devwizdark",
@@ -14,12 +14,13 @@
   
   "keywords": [
     "theme",
-    "dark theme",
-    "dev theme",
-    "hacker theme",
-    "github theme",
-    "vscode theme"
+    "dark-theme",
+    "dev-theme",
+    "hacker-theme",
+    "github-theme",
+    "vscode-theme"
   ],
+  "icon": "Devwiz.avif",
   "categories": [
     "Themes"
   ],
