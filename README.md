@@ -1,12 +1,24 @@
-# dev-wizard-darkgreen README
+# Dev Wizard Theme
 
-## Working with Markdown
+Welcome to Dev Wizard 
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+Dev Wizard Theme is a vibrant and powerful Visual Studio Code theme designed to enhance your coding experience with a magical touch. This theme brings an enchanting blend of colors to your editor, making coding feel like casting spells in a mystical realm.
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+# Features
+* Magical Color Palette: Dive into a world of enchantment with a carefully crafted color scheme that balances readability and aesthetics.
+
+* Enhanced Syntax Highlighting: Enjoy intuitive syntax highlighting that makes your code stand out and easy to read.
+
+
+
+# Installation
+* Launch Visual Studio Code.
+* Go to Extensions (Ctrl+Shift+X) or click on the Extensions View icon on the Sidebar.
+* Search for Dev Wizard.
+* Click Install to install it.
+* Click Reload to reload your editor.
+* Navigate to File > Preferences > Color Theme, and select Dev Wizard.
+
 
 ## For more information
 
