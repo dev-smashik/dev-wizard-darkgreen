@@ -9,7 +9,7 @@
     "url": "https://github.com/dev-smashik/dev-wizard-darkgreen"
   },
   "engines": {
-    "vscode": "^1.89.0"
+    "vscode": "^1.0.0"
   },
   "keywords": [
     "theme",
